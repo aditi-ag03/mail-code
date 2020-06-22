@@ -2,7 +2,7 @@
 import smtplib
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
-email_content="hello"
+email_content='hello'
 sender_address=''
 sender_pass=''
 receiver_address=''
